@@ -7,6 +7,11 @@ import java.util.*;
     Name: Jairius Burks
  */
 
+/*
+MyBnb.java was assigned for me to complete
+MyBnb.java was implemented entirely by me as part of CSCI 2073(Data Structures).
+*/
+
  /**
     * MyBnb is ued for renting and has various rooms followed by staff.
     * Anyone can chose their own unique room
@@ -115,4 +120,5 @@ public class MyBnb {
    }
     
 }  
+
 
