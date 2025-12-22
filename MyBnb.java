@@ -8,7 +8,6 @@ import java.util.*;
  */
 
 /*
-MyBnb.java was assigned for me to complete
 MyBnb.java was implemented entirely by me as part of CSCI 2073(Data Structures).
 */
 
@@ -120,5 +119,6 @@ public class MyBnb {
    }
     
 }  
+
 
 
