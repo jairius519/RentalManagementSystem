@@ -3,6 +3,9 @@
    The class includes accessor methods for number of beds, ID, and availability; as well as a mutator for 
    availability.
 */
+/*
+RentalRoom.java was provided by my course instructor; used here for reference
+*/
 
 public class RentalRoom
 {
@@ -60,3 +63,4 @@ public class RentalRoom
    }
 	
 }
+
