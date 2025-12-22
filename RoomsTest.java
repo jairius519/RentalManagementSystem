@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 /**
-   Program to test the basic functionality of the MyBnb class.
+   Program to test the basic functionality of the MyBnb class written by my professor.
 */
 public class RoomsTest
 {
@@ -30,4 +30,5 @@ public class RoomsTest
       
    }
 }
+
 
