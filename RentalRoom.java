@@ -4,7 +4,7 @@
    availability.
 */
 /*
-RentalRoom.java was provided by my course instructor; used here for reference
+RentalRoom.java was provided by my course professor; used here for reference
 */
 
 public class RentalRoom
@@ -63,4 +63,5 @@ public class RentalRoom
    }
 	
 }
+
 
