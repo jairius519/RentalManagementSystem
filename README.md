@@ -1,2 +1,2 @@
-# RentalManagementSystem
+# AirbnbBookingSystem
 Used for renting and has various rooms followed by staff.
